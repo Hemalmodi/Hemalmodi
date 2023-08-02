@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Hemal Modi</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Web Devlopment<br>🌱 I’m currently learning MERN stack <br>💬 Ask me about Wen Devlopment + DSA<br>⚡ How to reach me: => hemalmodi234@gmail.com
 
